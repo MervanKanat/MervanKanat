@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/2554541.jpg)
+![MasterHead](https://wallpaperaccess.com/full/2554541.jpg)
 <h1 align="center">Hi 👋, I'm Mervan Kanat</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
