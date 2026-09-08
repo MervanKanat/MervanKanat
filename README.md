@@ -1,14 +1,54 @@
-![MasterHead](https://wallpaperaccess.com/full/2554541.jpg)
-<h1 align="center">Hi 👋, I'm Mervan Kanat</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h1 align="center">Mervan Kanat</h1>
+<h3 align="center">AI/ML Engineer · Building LLM systems in fintech · Founder @ ToughWing</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mervankanat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mervankanat" height="30" width="40" /></a>
-<a href="https://medium.com/@mervan-kanat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mervan-kanat" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mervankanat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mervankanat.github.io"><img src="https://img.shields.io/badge/Blog-mervankanat.github.io-222222?style=flat&logo=github&logoColor=white" alt="Blog"/></a>
+  <a href="https://medium.com/@mervan-kanat"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:mervan-kanat@outlook.com"><img src="https://img.shields.io/badge/Email-mervan--kanat%40outlook.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervankanat&show_icons=true&locale=en&layout=compact" alt="mervankanat" /></p>
+### About
+
+I design and ship production LLM systems. At **Navimod** (fintech, Eskişehir) I work on LangGraph multi-agent architectures, RAG pipelines, and broker API integrations (Interactive Brokers, Saxo Bank).
+
+Under **ToughWing** I build and run AI applications live on the App Store — solo, end to end: model and provider selection, serving, deployment, scaling, and cost optimization.
+
+- 🏦 **Navimod** — AI/ML Engineer, since Sep 2024
+- 🚀 **ToughWing** — Nail Snap · Zodiac Fit · Petlifly → [App Store](https://apps.apple.com/tr/developer/emrullah-mervan-kanat/id1842717466)
+- 🎓 5× Anthropic certified · Anthropic Partner Network member
+- ✍️ Engineering notes at [mervankanat.github.io](https://mervankanat.github.io)
+- 🎙️ Philosophy & psychology on YouTube — *Kafede 3 Gün*
+
+### Focus
+
+`LLM Applications` · `Multi-Agent Systems (LangGraph)` · `RAG` · `Agentic Workflows` · `Broker API Integration` · `LLM Ops & Cost Optimization`
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+### Background
+
+- **Data Scientist** — Target Tech, Istanbul (2023–2024)
+- **Data Engineer Intern** — Celignis Biomass Lab, Ireland (2022)
+- **B.Sc. Computer Engineering** — Cumhuriyet University (honors) · Exchange: Lublin University of Technology, Poland
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mervankanat&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mervankanat&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
+</p>
