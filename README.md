@@ -1,5 +1,5 @@
 <h1 align="center">Mervan Kanat</h1>
-<h3 align="center">AI/ML Engineer · Building LLM systems in fintech · Founder @ ToughWing</h3>
+<h3 align="center">AI/ML Engineer · Building LLM systems in fintech</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mervankanat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,15 +12,15 @@
 
 ### About
 
-I design and ship production LLM systems. At **Navimod** (fintech, Eskişehir) I work on LangGraph multi-agent architectures, RAG pipelines, and broker API integrations (Interactive Brokers, Saxo Bank).
+I design and ship production LLM systems. At **Navimod** (fintech) I work on LangGraph multi-agent architectures, RAG pipelines, and broker API integrations (Interactive Brokers, Saxo Bank).
 
-Under **ToughWing** I build and run AI applications live on the App Store — solo, end to end: model and provider selection, serving, deployment, scaling, and cost optimization.
+On the side, I build and run a few AI-powered iOS apps under **ToughWing** — a hobby project I own end to end, from model selection to deployment and cost optimization.
 
 - 🏦 **Navimod** — AI/ML Engineer, since Sep 2024
-- 🚀 **ToughWing** — Nail Snap · Zodiac Fit · Petlifly → [App Store](https://apps.apple.com/tr/developer/emrullah-mervan-kanat/id1842717466)
+- 📱 **ToughWing** — Nail Snap · Zodiac Fit · Petlifly → [App Store](https://apps.apple.com/tr/developer/emrullah-mervan-kanat/id1842717466)
 - 🎓 5× Anthropic certified · Anthropic Partner Network member
 - ✍️ Engineering notes at [mervankanat.github.io](https://mervankanat.github.io)
-- 🎙️ Philosophy & psychology on YouTube — *Kafede 3 Gün*
+- 🎙️ Occasionally podcasting about philosophy & psychology
 
 ### Focus
 
